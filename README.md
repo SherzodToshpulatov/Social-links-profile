@@ -9,7 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [live site here](https://your-live-site-url.com)
+- Live Site URL: [live site here](https://social-links-profile-three-livid.vercel.app/)
 
 
 ### Built with
